@@ -1,8 +1,5 @@
 # NFT Marketplace
 
-> Build a E-commerce Full Stack with Nextjs + Mongodb + React Hook + Bootstrap 4
-> Instructions on how to use nextjs in conjunction with mongodb to build a basic e-commerce website.
-
 > Ethers served as an intermediary between the backend and frontend, with Redux employed for effective state management.
 > Before conducting any tests, ensure that you have funds in your Spolia test wallet, and then proceed to connect to my project.
 > It is advisable to test the functionality on the Spolia testnet before deploying any live transactions.
