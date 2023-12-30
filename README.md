@@ -14,7 +14,7 @@
 > This dashboard will enable the owner to withdraw fees from mining NFTs, check the platform's balance, and adjust the cost of minting.
 > All these features have been implemented in the smart contract; only the frontend remains to be developed.
 
-## Demo:
+## Demo:https://nft-market-place-blond.vercel.app/
 
 ## Author: ZOUBAIR HATTAB
 
