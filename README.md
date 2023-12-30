@@ -1,7 +1,8 @@
 # NFT Marketplace
 
-> Ethers served as an intermediary between the backend and frontend, with Redux employed for effective state management.
-> Before conducting any tests, ensure that you have funds in your Spolia test wallet, and then proceed to connect to my project.
+> In this project, I developed a comprehensive blockchain application using Solidity for the backend and ReactJS for the frontend. 
+> Ethers served as an intermediary between the backend and frontend, with Redux employed for effective state management. 
+> Before conducting any tests, ensure that you have funds in your Spolia test wallet, and then proceed to connect to my project. 
 > It is advisable to test the functionality on the Spolia testnet before deploying any live transactions.
 
 > For the uploading of metadata to the NFT, I utilized Pinata along with IPFS.
@@ -24,3 +25,4 @@
 ## Run the project http://localhost:3000
 
 ### `npm run start`
+
